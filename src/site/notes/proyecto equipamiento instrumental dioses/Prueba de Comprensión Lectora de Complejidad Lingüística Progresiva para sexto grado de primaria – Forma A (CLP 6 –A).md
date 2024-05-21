@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/prueba-de-comprension-lectora-de-complejidad-lingueistica-progresiva-para-sexto-grado-de-primaria-forma-a-clp-6-a/"}
+{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/prueba-de-comprension-lectora-de-complejidad-lingueistica-progresiva-para-sexto-grado-de-primaria-forma-a-clp-6-a/","dgPassFrontmatter":true}
 ---
 
 En el sexto nivel de lectura, se evalúa el dominio de las habilidades inherentes al área del texto mediante su aplicación en dos narraciones (una de las cuales se emplea en el nivel anterior). En este nivel, se profundizan las habilidades desarrolladas en niveles previos, enfatizando en organizar los hechos según su secuencia, identificar relaciones de causa y efecto entre los hechos relatados, comprender las relaciones de inclusión entre las afirmaciones de un texto, y captar información presentada a través de los diálogos [(Rivadeneira Bran de Laureano, 2010)](https://www.zotero.org/google-docs/?dGEyQ0)
