@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/prueba-de-comprension-lectora-de-complejidad-lingueistica-progresiva-para-cuarto-grado-de-primaria-forma-a-clp-4-a/"}
+{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/prueba-de-comprension-lectora-de-complejidad-lingueistica-progresiva-para-cuarto-grado-de-primaria-forma-a-clp-4-a/","dgPassFrontmatter":true}
 ---
 
 El primer subtest de la forma A, titulado "Los colmillos de los elefantes", compartido con el segundo nivel de la prueba, evalúa el nivel de la frase. Consiste en cuatro oraciones descriptivas sobre objetos y animales, con siete ítems y un ejemplo. La instrucción requiere que el alumno identifique las relaciones entre los sujetos y sus cualidades, incluso si están expresadas de manera diferente en el texto.
