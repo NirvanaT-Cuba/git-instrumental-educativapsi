@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/inventario-de-habitos-de-habitos-de-estudio-casm-85/"}
+{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/inventario-de-habitos-de-habitos-de-estudio-casm-85/","dgPassFrontmatter":true}
 ---
 
 La prueba psicométrica fue elaborada en el año 1985 y revisada en 1988,denominado Inventario Hábitos de Estudio. Este test fue elaborado en nuestro país en el año de 1985 por el psicólogo Luis Vicuña Peri. El objetivo de este instrumento es identificar en el estudiante los hábitos adecuados e inadecuados manifestados al momento de estudiar
