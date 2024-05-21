@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/proyecto-de-equipamiento-instrumental/"}
+{"dg-publish":true,"dh-house":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/proyecto-de-equipamiento-instrumental/","dgPassFrontmatter":true}
 ---
 
 [[proyecto equipamiento instrumental dioses/Instrumentos - Proyecto de equipamiento instrumental\|Instrumentos - Proyecto de equipamiento instrumental]]
@@ -42,35 +42,43 @@ Pérez Serrano, Gloria.(2008).La educación como respuesta a los retos que plant
 Trianes, M. V., Blanca, M., De la Morena, L., Infante, L., & Raya, S. (2006). Un cuestionario para evaluar el clima social del centro escolar. <https://repositorio.minedu.gob.pe/handle/20.500.12799/2986>
 
 Santiago, M. (2021, 1 marzo). Propiedades psicométricas del autotest Cisneros de acoso escolar en estudiantes de secundaria de dos distritos Lima Sur. <https://hdl.handle.net/20.500.13067/1160>  
+
+- [[200 - 📌 ÁREAS/201 - FORMACIÓN/🤓ESTUDIO PSICO/Papalia\|Papalia]]
+- [[200 - 📌 ÁREAS/201 - FORMACIÓN/🤓ESTUDIO PSICO/Atención y comprensión lectora en estudiantes del sexto grado de primaria de una institución educativa no estatal del distrito De Los Olivos\|Atención y comprensión lectora en estudiantes del sexto grado de primaria de una institución educativa no estatal del distrito De Los Olivos]]
+- [[Estrategias didácticas para el fortalecimiento de la atención como pre requisito cognitivo en el desarrollo del aprendizaje autónomo con estudiantes de Tercero de primaria de la Institución educativa Técnico Agroindustrial el Espino.\|Estrategias didácticas para el fortalecimiento de la atención como pre requisito cognitivo en el desarrollo del aprendizaje autónomo con estudiantes de Tercero de primaria de la Institución educativa Técnico Agroindustrial el Espino.]]
+- [[200 - 📌 ÁREAS/201 - FORMACIÓN/🤓ESTUDIO PSICO/La enseñanza de las estrategias cognitivas y metacognitivas como una vía de apoyo para el aprendizaje autónomo en los niños con déficit de atención sostenida\|La enseñanza de las estrategias cognitivas y metacognitivas como una vía de apoyo para el aprendizaje autónomo en los niños con déficit de atención sostenida]]
+- [[200 - 📌 ÁREAS/201 - FORMACIÓN/🤓ESTUDIO PSICO/Relación entre las Funciones Cognitivas y el Nivel de Rendimiento Académico en Niños\|Relación entre las Funciones Cognitivas y el Nivel de Rendimiento Académico en Niños]]
+- [[Test de atención D2 datos normativos y desarrollo evolutivo de la atención en educación primaria\|Test de atención D2 datos normativos y desarrollo evolutivo de la atención en educación primaria]]
+
 # <a name="_zhdfiyoo8cv1"></a>**ANEXOS**
 
 ## <a name="_lra5uyryi3fv"></a>**Horarios aulas de primaria**
 ![](/img/user/proyecto equipamiento instrumental dioses/anexos/Aspose.Words.6f278faf-a5cd-44e2-9046-aa0fdb643ad6.003.png)
 
-![](/img/user/proyecto equipamiento instrumental dioses/anexos/Aspose.Words.6f278faf-a5cd-44e2-9046-aa0fdb643ad6.004.png)
+![](Aspose.Words.6f278faf-a5cd-44e2-9046-aa0fdb643ad6.004.png)
 
 ![](/img/user/proyecto equipamiento instrumental dioses/anexos/Aspose.Words.6f278faf-a5cd-44e2-9046-aa0fdb643ad6.005.png)
 
 ![](/img/user/proyecto equipamiento instrumental dioses/anexos/Aspose.Words.6f278faf-a5cd-44e2-9046-aa0fdb643ad6.006.png)
 
-![](/img/user/proyecto equipamiento instrumental dioses/anexos/Aspose.Words.6f278faf-a5cd-44e2-9046-aa0fdb643ad6.007.png)
+![](Aspose.Words.6f278faf-a5cd-44e2-9046-aa0fdb643ad6.007.png)
 
 ![](/img/user/proyecto equipamiento instrumental dioses/anexos/Aspose.Words.6f278faf-a5cd-44e2-9046-aa0fdb643ad6.008.png)
 
 ## <a name="_36dih7xv8w1u"></a>**Horarios de secundaria**
-![](/img/user/proyecto equipamiento instrumental dioses/anexos/Aspose.Words.6f278faf-a5cd-44e2-9046-aa0fdb643ad6.009.png)
+![](Aspose.Words.6f278faf-a5cd-44e2-9046-aa0fdb643ad6.009.png)
 
 ![](/img/user/proyecto equipamiento instrumental dioses/anexos/Aspose.Words.6f278faf-a5cd-44e2-9046-aa0fdb643ad6.010.png)
 
 ![](/img/user/proyecto equipamiento instrumental dioses/anexos/Aspose.Words.6f278faf-a5cd-44e2-9046-aa0fdb643ad6.011.png)
 
-![](/img/user/proyecto equipamiento instrumental dioses/anexos/Aspose.Words.6f278faf-a5cd-44e2-9046-aa0fdb643ad6.012.png)
+![](Aspose.Words.6f278faf-a5cd-44e2-9046-aa0fdb643ad6.012.png)
 
 ![](/img/user/proyecto equipamiento instrumental dioses/anexos/Aspose.Words.6f278faf-a5cd-44e2-9046-aa0fdb643ad6.013.png)
 
 ## <a name="_d7b333r6etct"></a>**Inicial**
 ### <a name="_u4v5pfd6y9cb"></a>**Manual DP3**
-![](/img/user/proyecto equipamiento instrumental dioses/anexos/Aspose.Words.6f278faf-a5cd-44e2-9046-aa0fdb643ad6.014.png)
+![](Aspose.Words.6f278faf-a5cd-44e2-9046-aa0fdb643ad6.014.png)
 
 ## <a name="_difi77uf8qwa"></a>**Primaria**
 ### <a name="_htlm6y412nr5"></a>**CARAS-R**
