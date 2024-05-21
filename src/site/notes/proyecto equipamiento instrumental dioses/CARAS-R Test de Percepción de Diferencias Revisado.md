@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/caras-r-test-de-percepcion-de-diferencias-revisado/"}
+{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/caras-r-test-de-percepcion-de-diferencias-revisado/","dgPassFrontmatter":true}
 ---
 
-[[200 - 📌 ÁREAS/201 - FORMACIÓN/🤓ESTUDIO PSICO/para niños\|para niños]] [[para adolescentes\|para adolescentes]]  [[Test psicométrico\|Test psicométrico]]
+[[para niños\|para niños]] [[para adolescentes\|para adolescentes]]  [[Test psicométrico\|Test psicométrico]]
 6-18🎂⌚3´´
 - A
 - E
