@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/evaluacion-de-la-convivencia-escolar/"}
+{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/evaluacion-de-la-convivencia-escolar/","dgPassFrontmatter":true}
 ---
 
 # Primaria
