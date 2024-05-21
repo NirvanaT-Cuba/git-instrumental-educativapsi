@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dh-house":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/proyecto-de-equipamiento-instrumental/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/proyecto-de-equipamiento-instrumental/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 [[proyecto equipamiento instrumental dioses/Instrumentos - Proyecto de equipamiento instrumental\|Instrumentos - Proyecto de equipamiento instrumental]]
