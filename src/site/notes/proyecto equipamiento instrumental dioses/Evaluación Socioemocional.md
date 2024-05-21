@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/evaluacion-socioemocional/"}
+{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/evaluacion-socioemocional/","dgPassFrontmatter":true}
 ---
 
 # Inicial
