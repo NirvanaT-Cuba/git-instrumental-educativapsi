@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/autotest-cisneros-de-acoso-escolar/"}
+{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/autotest-cisneros-de-acoso-escolar/","dgPassFrontmatter":true}
 ---
 
 #### <a name="_rciewy2seujp"></a>**Descripción general**
