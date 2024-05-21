@@ -1,19 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/instrumentos-proyecto-de-equipamiento-instrumental/"}
+{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/instrumentos-proyecto-de-equipamiento-instrumental/","dgPassFrontmatter":true}
 ---
 
 # INICIAL
 ##  Áreas a evaluar
 ### [[proyecto equipamiento instrumental dioses/Evaluación de Psicomotricidad\|Evaluación de Psicomotricidad]]
 ### [[proyecto equipamiento instrumental dioses/Evaluación Socioemocional\|Evaluación Socioemocional]]
-### [[200 - 📌 ÁREAS/201 - FORMACIÓN/🤓ESTUDIO PSICO/Evaluación conductual\|Evaluación Conductual]]
+### [[Evaluación Conductual\|Evaluación Conductual]]
 ### [[proyecto equipamiento instrumental dioses/Lenguaje\|Lenguaje]]
 ### [[Atención\|Atención]]
 ## Instrumentos de medición
 ### Psicomotricidad. Socioemocional. Conductual. Lenguaje
 #### [[proyecto equipamiento instrumental dioses/Perfil de Desarrollo - 3 (DP-3)\|Perfil de Desarrollo - 3 (DP-3)]]
 ### Atención
-#### [[200 - 📌 ÁREAS/201 - FORMACIÓN/🤓ESTUDIO PSICO/Evaluación conductual en el ámbito escolar\|Evaluación conductual en el ámbito escolar]]
+#### [[Evaluación conductual en el ámbito escolar\|Evaluación conductual en el ámbito escolar]]
 # PRIMARIA
 ## Áreas a evaluar
 ### Lenguaje - Comprensión lectora
@@ -56,6 +56,3 @@
 #### [[proyecto equipamiento instrumental dioses/Cuestionario para evaluar clima social del centro escolar (CCSCE)\|Cuestionario para evaluar clima social del centro escolar (CCSCE)]]
 ### Aprendizaje autónomo
 #### [[proyecto equipamiento instrumental dioses/Inventario de Hábitos de Hábitos de Estudio CASM – 85\|Inventario de Hábitos de Hábitos de Estudio CASM – 85]]
-# PLAN DE GESTIÓN
-## [[proyecto equipamiento instrumental dioses/Cronograma de plan de trabajo de evaluación instrumental en colegio todos los niveles\|Cronograma de plan de trabajo de evaluación instrumental en colegio todos los niveles]]
-
