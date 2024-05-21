@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/evaluacion-de-clima-escolar/"}
+{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/evaluacion-de-clima-escolar/","dgPassFrontmatter":true}
 ---
 
 # Secundaria
