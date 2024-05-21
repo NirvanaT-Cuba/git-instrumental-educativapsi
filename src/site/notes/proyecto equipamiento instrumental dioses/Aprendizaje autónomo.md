@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/aprendizaje-autonomo/"}
+{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/aprendizaje-autonomo/","dgPassFrontmatter":true}
 ---
 
 
