@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/violencia-acoso-escolar/"}
+{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/violencia-acoso-escolar/","dgPassFrontmatter":true}
 ---
 
-[[200 - 📌 ÁREAS/201 - FORMACIÓN/🤓ESTUDIO PSICO/Bullying\|Bullying]]
+[[Bullying\|Bullying]]
 [[proyecto equipamiento instrumental dioses/Evaluación del acoso escolar\|Evaluación del acoso escolar]]
