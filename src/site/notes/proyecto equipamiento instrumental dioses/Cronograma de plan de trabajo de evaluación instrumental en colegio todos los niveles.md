@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/cronograma-de-plan-de-trabajo-de-evaluacion-instrumental-en-colegio-todos-los-niveles/"}
+{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/cronograma-de-plan-de-trabajo-de-evaluacion-instrumental-en-colegio-todos-los-niveles/","dgPassFrontmatter":true}
 ---
 
 Una vez iniciado el proyecto, el cual tiene proyección de iniciar el lunes 20 de mayo del 2024, se tomará en cuenta los horarios escolares de cada aula conformada por 35 alumnos a nivel inicial, 144 a nivel de primaria y 119 en secundaria. 
