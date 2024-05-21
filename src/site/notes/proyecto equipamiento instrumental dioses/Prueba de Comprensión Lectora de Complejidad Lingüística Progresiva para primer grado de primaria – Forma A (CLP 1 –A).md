@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/prueba-de-comprension-lectora-de-complejidad-lingueistica-progresiva-para-primer-grado-de-primaria-forma-a-clp-1-a/"}
+{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/prueba-de-comprension-lectora-de-complejidad-lingueistica-progresiva-para-primer-grado-de-primaria-forma-a-clp-1-a/","dgPassFrontmatter":true}
 ---
 
 Prueba de Comprensión Lectora de Complejidad Lingüística Progresiva para primer grado de primaria – Forma A (CLP 1 –A) La prueba está construida de modo que presente una dificultad creciente desde el punto de vista lingüístico, produciéndose de manera paralela un incremento en la dificultad de la comprensión lectora. Las áreas de lectura determinadas para la prueba son las de la palabra y la de la oración o frase.
