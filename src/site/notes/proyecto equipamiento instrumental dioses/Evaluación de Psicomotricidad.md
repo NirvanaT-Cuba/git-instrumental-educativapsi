@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/evaluacion-de-psicomotricidad/"}
+{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/evaluacion-de-psicomotricidad/","dgPassFrontmatter":true}
 ---
 
 # Pruebas
