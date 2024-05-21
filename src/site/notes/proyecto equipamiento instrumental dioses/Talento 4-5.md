@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/talento-4-5/"}
+{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/talento-4-5/","dgPassFrontmatter":true}
 ---
 
 Talento 4-5 está sustentada en la teoría de las Carreras de Holland (1978), que se basó en el modelo Hexagonal, que afirmó que las áreas vocaciones son seis: realista (mecánica), investigación, artística, social, emprendedora y convencional (burocrático). Se presentan empresas y se pregunta ¿Te interesa trabajar en esta empresa? Y el evaluado responde usando una escala de Likert. La versión extensa del Talento 4-5 tiene 36 ítems y la versión abreviada tiene 18 ítems. 	
