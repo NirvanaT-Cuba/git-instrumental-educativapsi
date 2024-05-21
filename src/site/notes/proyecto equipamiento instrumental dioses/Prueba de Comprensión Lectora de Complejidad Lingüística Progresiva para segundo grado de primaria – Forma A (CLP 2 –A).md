@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/prueba-de-comprension-lectora-de-complejidad-lingueistica-progresiva-para-segundo-grado-de-primaria-forma-a-clp-2-a/"}
+{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/prueba-de-comprension-lectora-de-complejidad-lingueistica-progresiva-para-segundo-grado-de-primaria-forma-a-clp-2-a/","dgPassFrontmatter":true}
 ---
 
 La prueba para el segundo grado de primaria (CLP 2-A) consta de 4 subtest, llamados:  A-1 A mi mamá,  A-2 Usamos los lápices,  A-3 La Habitación y A-4 Noticias Deportivas.
