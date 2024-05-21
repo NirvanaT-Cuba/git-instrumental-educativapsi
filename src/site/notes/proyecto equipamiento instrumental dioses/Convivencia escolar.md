@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/convivencia-escolar/"}
+{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/convivencia-escolar/","dgPassFrontmatter":true}
 ---
 
 En primer lugar,  la gestión de conflictos de manera efectiva, juega un papel crucial en la promoción de un ambiente escolar armonioso y colaborativo. Al equipar a los estudiantes con habilidades para resolver disputas de manera pacífica y constructiva, se fomenta un clima escolar seguro y respetuoso, lo que a su vez contribuye al bienestar emocional y académico de todos los miembros de la comunidad educativa [(Coelho et al., 2014](https://www.zotero.org/google-docs/?kbOjVn)). Un estudio realizado por [Padrón Díaz & Marrero Leon, 2019](https://www.zotero.org/google-docs/?L9DPnH) destaca el papel fundamental de la educación socioemocional en la creación de un ambiente escolar positivo. Los autores señalan que las habilidades socioemocionales, como la resolución de conflictos, la comunicación efectiva y la empatía, son esenciales para fomentar la colaboración, el respeto y el bienestar entre los estudiantes y el personal escolar.
