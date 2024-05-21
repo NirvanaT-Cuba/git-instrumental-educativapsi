@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/cuestionario-para-evaluar-clima-social-del-centro-escolar-ccsce/"}
+{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/cuestionario-para-evaluar-clima-social-del-centro-escolar-ccsce/","dgPassFrontmatter":true}
 ---
 
 #### <a name="_8zxpx7baz42"></a>**Descripción general**
