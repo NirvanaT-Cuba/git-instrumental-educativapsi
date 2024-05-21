@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/cuestionario-de-evaluacion-individual-de-habilidades-socioemocionales/"}
+{"dg-publish":true,"permalink":"/proyecto-equipamiento-instrumental-dioses/cuestionario-de-evaluacion-individual-de-habilidades-socioemocionales/","dgPassFrontmatter":true}
 ---
 
 Para apoyar la implementación de estas estrategias, el Minedu ofrece a los docentes del nivel de primaria y secundaria un kit socioemocional como material educativo. Este kit contiene una serie de recursos que permiten a los docentes:
