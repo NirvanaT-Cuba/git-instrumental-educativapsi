@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/200-areas/201-formacion/estudio-psico/aislamiento-mal-comportamiento-no-quiero-estar-cerca-a-ti/","dgPassFrontmatter":true}
 ---
 
+
 Bibliografía::  [[200 - 📌 ÁREAS/201 - FORMACIÓN/📚LIBROS/Disciplina sin lágrimas\|Disciplina sin lágrimas]]
 Autor::  [[Siegel, D.\|Siegel, D.]] [[Payne, T.\|Payne, T.]]
 Tipo::  [[extracto\|extracto]]
