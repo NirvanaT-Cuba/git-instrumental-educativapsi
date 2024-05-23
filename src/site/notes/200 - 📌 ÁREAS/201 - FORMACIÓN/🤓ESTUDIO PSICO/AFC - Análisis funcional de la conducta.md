@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/200-areas/201-formacion/estudio-psico/afc-analisis-funcional-de-la-conducta/","dgPassFrontmatter":true}
 ---
 
+
 >[!note]  Nos dice ¿Por qué lo haces? 
 >Sacar conclusiones y modificar conducta
 
