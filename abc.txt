@@ -1,0 +1,4 @@
+curl -H "Authorization: bearer YOUR_PERSONAL_ACCESS_TOKEN" \
+     -H "Content-Type: application/json" \
+     -d '{"query":"{ repository(owner: \"NirvanaT-Cuba\", name: \"git-instrumental-educativapsi\") { discussionCategories(first: 10) { nodes { id name } } } }"}' \
+     https://api.github.com/graphql
